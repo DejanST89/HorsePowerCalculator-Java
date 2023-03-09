@@ -13,6 +13,7 @@ public class Main {
 
         System.out.println("snaga automobila u konjskim snagama"+snagaKS);
        System.out.println("Program je zavrsio svoj rad");
+       System.out.println("Ovo je izmena");
 
 
     }
